@@ -1,3 +1,15 @@
+---
+title: Overview of Smart Groups in Microsoft Azure and Azure Monitor
+description: Smart Groups are aggregations of alerts that help you reduce alert noise
+author: anantr
+services: azure-monitor
+ms.service: azure-monitor
+ms.topic: conceptual
+ms.date: 05/15/2018
+ms.author: anantr
+ms.component: alerts
+---
+
 
 # Smart groups
 One common problem faced when dealing with alerts is sifting through the noise to find out what actually matters - smart groups are intended to be the solution to that problem. Smart groups help reduce noise by allowing you to manage related alerts as a single aggregated unit rather than as individual alerts. You can view the details of smart groups and set the state similarly to how you can with alerts. Each alert is a member of one and only one smart group.

@@ -35,6 +35,8 @@
     href: monitoring-overview-activity-logs.md
   - name: Alerts 
     href: monitoring-overview-unified-alerts.md
+  - name: Alerts: Smart Groups
+    href: monitoring-overview-alerts-smartgroups.md
   - name: Alerts (classic)  
     href: monitoring-overview-alerts.md
   - name: Log alerts

@@ -13,7 +13,7 @@ ms.component: alerts
 # Overview
 This article shows you how to manage your alert instances across Azure, and how to get the contextual information that will help you manage the alert.
 1. In the [portal](https://portal.azure.com/), select **Monitor** and under the MONITOR section - choose **Alerts**.  
-    ![Monitoring](./media/monitor-alerts-unified/AlertsPreviewMenu.png)
+    ![Monitoring](./media/monitor-alerts-managing-alert-instances/toc.jpg)
 
 1.	You will land on the **Alerts Summary** page, which gives you an overview of all your alert instances across Azure. You can modify the summary view by selecting **multiple subscriptions** (a maximum of 5) or by filtering across **resource groups**, specific **resources** or **time ranges**. Click on either Total Alerts or any of the severity bands to go to the list view for your alerts.   
     ![Monitoring](./media/monitor-alerts-unified/AlertsPreviewMenu.png)

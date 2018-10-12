@@ -1,5 +1,5 @@
 ---
-title: Overview of alerting and notification monitoring in Azure
+title: Overview of alerts in Microsoft Azure
 description: Overview of alerting in Azure. Alerts, classic alerts, the alerts interface. 
 author: rboucher
 services: monitoring
